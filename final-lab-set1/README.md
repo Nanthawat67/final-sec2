@@ -9,8 +9,8 @@
 
 | Student ID    | ชื่อ-นามสกุล           | หน้าที่                                      |
 | ------------- | -------------------- | -------------------------------------------- |
-| 67543210030-2 | นายนันทวัฒน์ แซ่ย่าง     | Backend (Auth, Task, Log Service, Nginx, DB) |
-| 66543210011-3 | นายธนกร ผดุงศิลป์       | Frontend (index.html, logs.html)             |
+| 67543210034-4 | นายนันทวัฒน์ แซ่ย่าง     | Backend (Auth, Task, Log Service, Nginx, DB) |
+| 66543210030-2 | นายธนกร ผดุงศิลป์       | Frontend (index.html, logs.html)             |
 
 ---
 
